@@ -1,4 +1,4 @@
-# 🏦 SyndicateIQ
+# SyndicateIQ
 
 **The AI Operating System for Syndicated Loan Intelligence**
 
@@ -6,11 +6,11 @@
 SyndicateIQ transforms syndicated loan operations by automating document processing, covenant monitoring, settlement due diligence, and ESG verification.
 
 ## Features
-- 📄 Document Intelligence Engine (99% faster processing)
-- 🔄 Settlement Due Diligence Accelerator (85% time reduction)
-- ⚠️ Covenant Guardian (60-90 day breach prediction)
-- ♻️ ESG Veritas Platform (greenwashing detection)
-- 🧠 Cross-Platform Intelligence Hub (unified dashboard)
+-  Document Intelligence Engine (99% faster processing)
+-  Settlement Due Diligence Accelerator (85% time reduction)
+-  Covenant Guardian (60-90 day breach prediction)
+-  ESG Veritas Platform (greenwashing detection)
+-  Cross-Platform Intelligence Hub (unified dashboard)
 
 ## Tech Stack
 - React 18 + TypeScript + Vite
@@ -24,35 +24,35 @@ SyndicateIQ transforms syndicated loan operations by automating document process
 npm install
 npm run dev
 
-## 📖 Detailed Documentation
+## Detailed Documentation
 
 ### Module 2: Settlement Due Diligence Accelerator
-- 📄 **PDF Upload** - Drag-and-drop document upload with validation
-- 🤖 **Automated Extraction** - AI-powered document analysis (simulated)
-- 📊 **Risk Scoring** - Multi-factor settlement risk calculation
-- ⏱️ **Processing Simulation** - Real-time progress with timer
-- 📈 **Risk Breakdown** - Visual analysis of risk factors
-- 📥 **Report Generation** - Download comprehensive due diligence reports
-- ⚡ **85% Faster** - Reduces processing time from 14 days to 2 hours
+-  **PDF Upload** - Drag-and-drop document upload with validation
+-  **Automated Extraction** - AI-powered document analysis (simulated)
+-  **Risk Scoring** - Multi-factor settlement risk calculation
+-  **Processing Simulation** - Real-time progress with timer
+-  **Risk Breakdown** - Visual analysis of risk factors
+-  **Report Generation** - Download comprehensive due diligence reports
+-  **85% Faster** - Reduces processing time from 14 days to 2 hours
 
 ### Module 4: ESG Veritas Platform
-- 📋 **ESG Report Upload** - Multi-file support (PDF, CSV, Excel)
-- 🔍 **Greenwashing Detection** - Advanced algorithm for transparency analysis
-- ✅ **LMA Compliance Checker** - Green Loan Terms compliance verification
-- 📊 **ESG Score Dashboard** - Comprehensive scoring and trends
-- 📈 **Quarterly Trends** - Visual charts for ESG performance
-- 📥 **Compliance Reports** - Export detailed analysis reports
+-  **ESG Report Upload** - Multi-file support (PDF, CSV, Excel)
+-  **Greenwashing Detection** - Advanced algorithm for transparency analysis
+-  **LMA Compliance Checker** - Green Loan Terms compliance verification
+-  **ESG Score Dashboard** - Comprehensive scoring and trends
+-  **Quarterly Trends** - Visual charts for ESG performance
+-  **Compliance Reports** - Export detailed analysis reports
 
 ### Module 5: Dashboard Hub
-- 📊 **Portfolio Overview** - Key metrics and KPIs
-- 📋 **Loans Table** - Comprehensive loan listing with filters
-- 🔔 **Alerts Feed** - Real-time alert management
-- 📈 **Risk Distribution** - Visual portfolio risk analysis
-- 📜 **Covenant Monitoring** - Upcoming tests and compliance status
-- 📝 **Audit Trail** - Cryptographic hash-based activity log
-- 📥 **Executive Reporting** - One-click portfolio report export
+-  **Portfolio Overview** - Key metrics and KPIs
+-  **Loans Table** - Comprehensive loan listing with filters
+-  **Alerts Feed** - Real-time alert management
+-  **Risk Distribution** - Visual portfolio risk analysis
+-  **Covenant Monitoring** - Upcoming tests and compliance status
+-  **Audit Trail** - Cryptographic hash-based activity log
+-  **Executive Reporting** - One-click portfolio report export
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**: React 19.2.0
 - **Language**: TypeScript
@@ -64,7 +64,7 @@ npm run dev
 - **File Upload**: React Dropzone 14.3.8
 - **Date Utilities**: date-fns 4.1.0
 
-## 🎨 Design System
+##  Design System
 
 ### Colors
 - **Primary Navy**: `#0A1929` - Main background
@@ -78,7 +78,7 @@ npm run dev
 - **Font Family**: Inter (via Google Fonts)
 - **Base Unit**: 4px spacing system (Tailwind default)
 
-## 📊 Data used
+## Data used
 
 The application uses comprehensive mock data generators for:
 - **Loans**: 18 realistic loan entries across multiple sectors
@@ -87,7 +87,7 @@ The application uses comprehensive mock data generators for:
 - **Alerts**: Real-time alerts for covenant breaches, missing documents, ESG deviations
 - **Audit Logs**: 50+ audit trail entries with cryptographic hashes
 
-## 🔑 Key Algorithms
+##  Key Algorithms
 
 ### Settlement Risk Score
 ```
@@ -107,7 +107,7 @@ RiskScore = (documentCompleteness × 0.25) +
 ### ESG Scoring
 - **Overall Score**: Weighted average (E: 40%, S: 30%, G: 30%)
 
-## 🧪 Testing Checklist
+##  Testing Checklist
 
 See [TESTING_CHECKLIST.md](./TESTING_CHECKLIST.md) for comprehensive testing guidelines.
 
@@ -129,33 +129,33 @@ See [TESTING_CHECKLIST.md](./TESTING_CHECKLIST.md) for comprehensive testing gui
 - [ ] Responsive design works on mobile/tablet
 
 
-## 🎯  Categories Coverage
+##  Categories Coverage
 
-1. **Transparent Loan Trading** ✅
+1. **Transparent Loan Trading** 
    - Module 2: Settlement Due Diligence Accelerator
    - Automated document extraction and risk assessment
 
-2. **Greener Lending** ✅
+2. **Greener Lending** 
    - Module 4: ESG Veritas Platform
    - ESG compliance and greenwashing detection
 
-3. **Digital Loans** ✅
+3. **Digital Loans** 
    - Module 5: Dashboard Hub
    - Digital portfolio management and tracking
 
-4. **Loan Documents** ✅
+4. **Loan Documents** 
    - Module 5: Dashboard Hub
    - Document management and audit trail
 
-5. **Keeping Loans on Track** ✅
+5. **Keeping Loans on Track** 
    - Module 5: Dashboard Hub
    - Covenant monitoring and alerts
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - open-source
 
 ---
 
-**Built with ❤️ for WiCS Online Hackathon (Winter 2026)
+**Built with for WiCS Online Hackathon (Winter 2026)
 **
